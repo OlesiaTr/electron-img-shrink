@@ -1,0 +1,24 @@
+{
+  "name": "electron-img-shrink",
+  "version": "1.0.0",
+  "description": "Image Shrink tutorial",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "nodemon --exec electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlesiaTr/electron-img-shrink.git"
+  },
+  "author": "Olesia Trebina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlesiaTr/electron-img-shrink/issues"
+  },
+  "homepage": "https://github.com/OlesiaTr/electron-img-shrink#readme",
+  "devDependencies": {
+    "electron": "^24.0.0",
+    "nodemon": "^2.0.22"
+  }
+}
